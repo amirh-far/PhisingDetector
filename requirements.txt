@@ -1,3 +1,6 @@
+joblib >= 0.13.1
 numpy
-pandas
-torch
+scikit-learn
+beautifulsoup4
+whois
+google
